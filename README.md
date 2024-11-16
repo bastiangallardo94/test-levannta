@@ -1,4 +1,4 @@
-# Backend Test
+# Frontend Test
 
 ## Descripción
 
@@ -8,7 +8,8 @@ Este proyecto completa las tareas de manera simple para demostrar lo solicitado!
 
 ## Tecnologías Usadas
 
-- [express](https://expressjs.com/): Un marco web rápido, minimalista y sin prejuicios para Node.js.
+- [Next.js](https://nextjs.org/): Framework React para aplicaciones web estáticas y dinámicas.
+- [React](https://reactjs.org/): Biblioteca de JavaScript para construir interfaces de usuario.
 - [TypeScript](https://www.typescriptlang.org/): Superset de JavaScript con tipado estático.
 
 ---
@@ -31,10 +32,3 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
     ```bash
    yarn dev
     ```
-
-## Ejemplo de .env
-```
-PORT=3000
-NODE_ENV=development
-```
-
